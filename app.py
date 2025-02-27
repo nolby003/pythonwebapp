@@ -60,7 +60,7 @@ def mytemplate():
    #    dbfield_list.append(p)
 
    # return t.render(dbfield_list=dbfield_list)
-return 'foo'
+   return 'foo'
 if __name__ == '__main__':
    app.run(debug=TRUE)
    app.run()
